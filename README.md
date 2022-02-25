@@ -1,2 +1,2 @@
 # 2ndOfficial-RSCUnciv
-WIP
+This is a second version of it.
