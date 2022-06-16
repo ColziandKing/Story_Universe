@@ -1,2 +1,3 @@
-# 2ndOfficial-RSCUnciv
-This is a second version of it. No images and buildings available due to reason of the first version not working.
+# Story_Universe
+This is a repository of stories. Formerly for a Unciv mod, now reused for this important purpose. 
+Proposing stories like The Versatile Professional (The career of my life), Redo Imagination, and many more.
