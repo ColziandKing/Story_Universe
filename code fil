@@ -1,0 +1,35 @@
+{
+		"name": "Settling Stone",
+		"replaces": "Monument",
+		"uniqueTo": "Yanzerhan",
+		"culture": 3,
+		"faith": 3,
+		"cost": 60,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
+	},
+  {
+		"name": "Seowon",
+		"replaces": "University",
+		"uniqueTo": "Salveo",
+		"maintenance": 3
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+35]% [Science] [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Queexame",
+		"replaces": "Observatory",
+		"uniqueTo": "Magroonaguio",
+		"maintenance": 0,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 50},
+		"requiredBuilding": "Library",
+		"uniques": ["Must be next to [Mountain]", "Must be next to [Hill]", "[+1] Sight <for [{Military} {Water}] units>"],
+		"requiredTech": "Astronomy"
+	}
