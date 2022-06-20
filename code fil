@@ -169,5 +169,15 @@
 		"hurryCostModifier": 25,
 		"uniques": ["[+50]% [Culture] [in all cities]"],
 		"requiredTech": "Refrigeration"
+	},
+	{
+		"name": "Zoo",
+		"uniqueTo": "Dicesun",
+		"happiness": 2,
+		"cost": 320,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
 	}
 ]
