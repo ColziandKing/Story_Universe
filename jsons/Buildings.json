@@ -1,0 +1,19 @@
+[
+  {
+		"name": "Treasure District",
+		"production": 5,
+		"science": 5,
+		"gold": 5,
+		"culture": 5,
+		"faith": 5,
+		"happiness": 5,
+		"cityStrength": 5,
+		"cost": 0,
+		"uniqueTo": "Colziand",
+		"greatPersonPoints": {"Great Scientist": 10, "Great General": 10, "Great Engineer": 10, "Great Artist": 10, "Great Merchant": 10, "Great Prophet": 10},
+		"requiredTech": "Agriculture"
+		"maintenance": 0,
+		"uniques": ["Only available [Palace] in this city","[1] free [War Elephant] units appear",
+		           "[1] free [Persian Immortal] units appear","[1] free [Battering Ram] units appear"],
+	}
+]
