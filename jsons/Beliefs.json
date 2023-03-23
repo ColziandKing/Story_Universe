@@ -15,7 +15,6 @@
         "name": "In God Alone",
         "type": "Pantheon",
         "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from every [Wonder]",
-		   "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Luxury] tiles [in all cities],
                    "May choose [2] additional belief(s) of any type when [founding] a religion"]
     },
     {
@@ -34,7 +33,6 @@
         "name": "Christos",
         "type": "Pantheon",
         "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from every [Wonder]",
-		   "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Luxury] tiles [in all cities],
                    "May choose [2] additional belief(s) of any type when [founding] a religion"]
     }
   ]
