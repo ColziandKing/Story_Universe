@@ -2,6 +2,39 @@
     {
         "name": "Lord's Blessing",
         "type": "Pantheon",
-        "uniques": ["[+10 Science, +10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from [All] tiles [in all cities]"]
+        "uniques": ["[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [Bonus] tiles [in all cities]",
+                   "May choose [2] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"]
+    },
+	{
+        "name": "Almighty King",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from every [Palace]",
+                   "May choose [2] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"]
+    },
+    {
+        "name": "In God Alone",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from every [Wonder]",
+		   "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Luxury] tiles [in all cities,
+                   "May choose [2] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"]"]
+    },
+    {
+        "name": "Adonai",
+        "type": "Pantheon",
+        "uniques": ["[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from [Bonus] tiles [in all cities]",
+                   "May choose [2] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"]
+    },
+	{
+        "name": "Alpha & Omega",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from every [Palace]",
+                   "May choose [2] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"]
+    },
+    {
+        "name": "Christos",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from every [Wonder]",
+		   "[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Food, +1 Production, +1 Happiness] from [Luxury] tiles [in all cities,
+                   "May choose [2] additional belief(s) of any type when [founding] a religion","Cannot build [Scout] units"]"]
     }
   ]
