@@ -1,66 +1,5 @@
 [
-  {
-		"name": "Carthage",
-		"leaderName": "Maritime",
-		"adjective": ["Carthaginian"],
-		"startBias": ["Coast"],
-		"preferredVictoryType": "Domination",
-		"personality": "Dido",
 
-        "startIntroPart1": "Greetings to you, revered Queen Dido, ruler of the legendary kingdom of Carthage. The great poet Virgil related your great history, how your husband Acerbas was murdered by your own brother, King Pygmalion of Tyre, to steal the treasures of your family that were rightfully yours. But you endured his pressure until you and your compatriots decided to flee and sail for new lands. The gods led you to the shores of North Africa, and with cunning diplomacy, you expanded the territory of your new home, and laid the basis for the future kingdom of Carthage.",
-        "startIntroPart2": "Clever and proud Dido, the storm is coming and your people look for a shelter under your wise and powerful protection. Can you create a new and radiant Carthage able to cleave the darkness? Will your new empire shine through the ages of history?",
-
-        "declaringWar": "Tell me, do you all know how numerous my armies, elephants and the gdadons are? No? Today, you shall find out!",
-		"attacked": "Fate is against you. You earned the animosity of Carthage in your exploration. Your days are numbered.",
-		"defeated": "The fates became to hate me. This is it? You wouldn't destroy us so without their help.",
-		"introduction": "The Phoenicians welcome you to this most pleasant kingdom. I am Dido, the queen of Carthage and all that belongs to it.",
-		"neutralHello": "Greetings.",
-		"hateHello": "What is it now?",
-		"tradeRequest": "I just had the marvelous idea, and I think you'll appreciate it too.",
-		"outerColor": [205, 205, 205],
-		"innerColor": [81, 0, 137],
-		"favoredReligion": "Islam",
-		"uniqueName": "Phoenician Heritage",
-		"uniques": ["Gain a free [Harbor] [in all coastal cities]","Land units may cross [Mountain] tiles after the first [Great General] is earned","Comment [Units ending their turn on [Mountain] tiles take [50] damage]"],
-		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
-			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",
-			"Oea","Theveste","Ibossim","Thapsus","Aleria","Tingis","Abyla","Sabratha","Rusadir","Baecula",
-			"Saldae"],
-        "spyNames": ["Hamilcar", "Mago", "Baalhaan", "Sophoniba", "Yzebel", "Similce", "Kandaulo", "Zinnridi", "Gisgo", "Fierelus"]
-    },
-{
-		"name": "Greece",
-		"leaderName": "Alexander",
-		"adjective": ["Greek"],
-		"startBias": ["Coast"],
-		"preferredVictoryType":"Diplomatic",
-		"personality": "Alexander",
-
-		"startIntroPart1": "Great King Alexander, leader of the mighty Greek nation, you are truly blessed by the gods. In 480 BC, quarrelsome city-states such as Athens, Sparta, Thebes, found a way to join their forces, allowing Greece to defeat the mighty Persia in the 5th century BC, both on land and sea. Following their example, you lead a Greek coalition and finally struck down the Persian Empire in 331 BC. You conquered almost all the known world, and from Europe to Africa to India, you built an empire unmatched by any before it.",
-		"startIntroPart2": "Megalexandros, son of Zeus, will you ride Bucephalas again, to gift the world with the brightness of the Greek culture? Will your new empire shine through the ages of history?",
-
-		"declaringWar": "You are in my way, you must be destroyed.",
-		"attacked": "As a matter of fact I too grow weary of peace.",
-		"defeated": "You have somehow become my undoing! What kind of beast are you?",
-		"introduction": "Hello stranger! I am Alexandros, son of kings and grandson of the gods!",
-
-		"neutralHello": "Greetings!",
-		"hateHello": "What?",
-
-		"tradeRequest": "My friend, does this seem reasonable to you?",
-
-		"outerColor": [255, 255, 255],
-		"innerColor": [65, 141, 254],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Hellenic League",
-		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
-		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
-			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
-			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
-			"Larissa","Apollonia","Messene","Orchomenos","Ambracia","Kos","Knidos","Amphipolis",
-			"Patras","Lamia","Nafplion","Apolyton"],
-        "spyNames": ["Jason", "Helena", "Alexa", "Cletus", "Kassandra", "Andres", "Desdemona", "Anthea", "Aeneas", "Leander"]
-    },
   {
 		"name": "The Maya",
 		"leaderName": "Pacal",
@@ -92,5 +31,34 @@
 			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
         "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
     },
-  
+  {
+		"name": "Byzantium",
+		"leaderName": "Theodora",
+		"adjective": ["Byzantine"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Theodora",
+
+        "startIntroPart1": "Magnificent Empress Theodora, beloved of Byzantium and of Rome, your people salute you! With your beauty and intelligence, you rose up from actress and courtesan to the rank of the most powerful woman in the Roman Empire, as wife of Justinian I. In the late 520's AD, you helped your husband engage in spiritual and legal reforms, promugalting numerous laws to improve women's status and treatment in the empire. You also made of Constantinople the jewel of the Eastern Roman Empire with the restoration and construction of many aqueducts, bridges, and churches, its beauty culminating with the creation of the Hagia Sophia, one of the most splendid pieces of architecture in the world.",
+        "startIntroPart2": "Beautiful Empress,the Byzantine Empire's magnificence is intact in all memories, and ready to reborn as the new jewel of humankind. Will your new empire shine through the ages of history?",
+
+        "declaringWar": "It is always a shame to destroy a thing of beauty. Happily, you are not one.",
+		"attacked": "Now darling, tantrums are most unbecoming. I shall have to teach you a lesson.",
+		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
+		"introduction": "My, isn't this a pleasant surprise - what may I call you, oh mysterious stranger? I am Theodora, beloved of Byzantium.",
+		"neutralHello": "Hello again.",
+		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
+		"outerColor": [114, 162, 233],
+		"innerColor": [61, 0, 109],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Patriarchate of Constantinople",
+		"uniques": ["Gain a free [Harbor] [in all coastal cities]","May choose [1] additional belief(s) of any type when [founding] a religion"],
+
+		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
+			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
+			"Tyana", "Gaza", "Kerkyra", "Phoenice", "Selymbria", "Sillyon", "Chrysopolis", "Vodena", "Caesarea", "Traianoupoli", "Constantia", "Athens",
+			"Patra", "Korinthos"],
+        "spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
+    },
+	
 ] 
