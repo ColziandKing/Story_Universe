@@ -669,7 +669,7 @@
 		"innerColor": [255,120,0],
 		"favoredReligion": "Tengriism",
 		"uniqueName": "Mongol Terror",
-		"uniques": ["[+30]% Strength <vs [City-States]>", "Cities are razed [2] times as fast","[+1] Movement <for [Mounted] units>","Gain a free [Monument] [in all cities]"],
+		"uniques": ["[+30]% Strength <vs [City-States]>", "Cities are razed [3] times as fast","[+1] Movement <for [Mounted] units>","Gain a free [Monument] [in all cities]"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
@@ -801,7 +801,7 @@
 
         "favoredReligion": "Tengriism",
 		"uniqueName": "Scourge of God",
-		"uniques": ["[+1 Production] from every [Pasture]", "Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game","Gain a free [Stable] [in all cities]"],
+		"uniques": ["[+1 Production] from every [Pasture]", "Cities are razed [2] times as fast","Starts with [Animal Husbandry]", "\"Borrows\" city names from other civilizations in the game","Gain a free [Stable] [in all cities]"],
 		"cities": ["Attila's Court"],
         "spyNames": ["Balamber", "Uldin", "Donatus", "Charato", "Octar", "Bleda", "Ellac", "Dengizik", "Hildico", "Gudrun"]
     },
