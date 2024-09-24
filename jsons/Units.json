@@ -258,6 +258,8 @@
 	{
 		"name": "Horse Archer",
 		"unitType": "Archery",
+		"uniqueTo": "The Huns",
+		"replaces": "War Chariot",
 		"movement": 4,
 		"strength": 7,
 		"rangedStrength": 10,
@@ -272,6 +274,8 @@
 	{
 		"name": "War Elephant",
 		"unitType": "Archery",
+		"uniqueTo": "India",
+		"replaces": "War Chariot",
 		"movement": 3,
 		"strength": 9,
 		"rangedStrength": 11,
