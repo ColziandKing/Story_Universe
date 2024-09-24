@@ -138,8 +138,7 @@
   {
         "name": "Religious Unity",
         "type": "Enhancer",
-        "uniques": ["[+100]% Natural religion spread [in City-State cities]",
-                    "[+20]% Natural religion spread [in all cities]"]
+        "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
     },
   {
         "name": "Icon de Hedo-Nihilism",
