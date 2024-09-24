@@ -102,7 +102,7 @@
     "name": "Poly-Clergy",
     "type": "Founder",
     "uniques": [
-      "Religion naturally spreads to cities [+2] tiles away","[+2 Gold, +2 Faith] from each Trade Route",
+      "[+2 Gold, +2 Faith] from each Trade Route",
       "[-1 Food, -3 Production, +1 Gold, +2 Culture] from all [Faith] buildings <in cities with at least [4] [Followers of this Religion]>"
     ]
   },
