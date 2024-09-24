@@ -210,7 +210,7 @@
 		"production": 1,
 		"gold": 1,
 		"turnsToBuild": 7,
-		"techRequired": "Chivalry",
+		"techRequired": "Physics",
 		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%"]
 	}
   ]
