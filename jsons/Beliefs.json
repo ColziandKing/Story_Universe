@@ -136,11 +136,6 @@
   "May buy [Worker] units with [Faith] for [2] times their normal Production cost <in cities with at least [5] [Followers of this Religion]>"]
     },
   {
-        "name": "Religious Unity",
-        "type": "Enhancer",
-        "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
-    },
-  {
         "name": "Icon de Hedo-Nihilism",
         "type": "Enhancer",
         "uniques": ["[-15]% [Happiness] from every follower, up to [-20]% <when not at war>","[+1 Gold] [in all cities]",
