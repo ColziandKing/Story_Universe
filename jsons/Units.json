@@ -340,15 +340,17 @@
 	{
 		"name": "Battering Ram",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
-		"movement": 3,
-		"strength": 15,
+		"replaces": "Spearman",
+		"uniqueTo": "The Huns",
+		"movement": 2,
+		"strength": 10,
 		"cost": 75,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Physics",
-		"upgradesTo": "Trebuchet",
-		"uniques": ["[+150]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
+		"upgradesTo": "Hwach'a",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
 		"[-1] Sight", "Can only attack [City] units"],
-		"promotions":  ["Cover I","Cover II"],
+		"promotions":  ["Cover I"],
 		"attackSound": "throw"
 	},
 	{
