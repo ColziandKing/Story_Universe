@@ -14,6 +14,16 @@
 			"Blast radius [5]"],
 		"attackSound": "nuke"
 	},
+	{
+		"name": "Angel",
+		"unitType": "Gunpowder",
+		"movement": 3,
+		"strength": 100000,
+		"cost": 90000,
+		"requiredTech": "Future Tech",
+		"uniques": ["[+100000]% Strength <vs cities> <when attacking>","Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
 	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
 
 	/* Ancient Era */
