@@ -42,13 +42,13 @@
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Free Social Policy","Destroyed when the city is captured","[1] free [Settler] units appear",]
+		"uniques": ["Free Social Policy","Destroyed when the city is captured","[2] free [Settler] units appear"]
 	},
 	{
 		"name": "Barracks",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["New [Military] units start with [500] Experience [in this city]", "Destroyed when the city is captured"],
+		"uniques": ["New [Military] units start with [5] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
 	}
 ]
