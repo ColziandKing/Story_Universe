@@ -115,7 +115,7 @@
 		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
-		"aisExchangeTechs": true,
+		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	},
@@ -145,7 +145,7 @@
 		"aiMajorCivBonusStartingUnits": ["Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.9,
-		"aisExchangeTechs": true,
+		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	},
@@ -175,7 +175,7 @@
 		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Scout"],
 		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.85,
-		"aisExchangeTechs": true,
+		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	},
@@ -236,7 +236,7 @@
 		"aiMajorCivBonusStartingUnits": ["Worker", "Scout", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": ["Worker", "Scout"],
 		"aiUnhappinessModifier": 0.6,
-		"aisExchangeTechs": false,
+		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	}
