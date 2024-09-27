@@ -105,8 +105,8 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-                    "[+50]% Production when constructing [Settler] units [in capital]",
-                    "Free [Settler] appears"
+                    "[+50]% Production when constructing [Scout] units [in capital]",
+                    "Free [Scout] appears"
                 ],
                 "requires": ["Republic"],
                 "row": 2,
