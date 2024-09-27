@@ -10,7 +10,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[-30 Culture] [in capital]","[-30 Happiness] [in capital]",
+            "[-30 Culture] [in capital]",
             "[+25]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
@@ -78,7 +78,7 @@
             "Domination": 10,
             "Scientific": 10
         },
-        "uniques": ["[-10 Culture] [in all cities]","[-10 Happiness] [in capital]",],
+        "uniques": ["[-10 Culture] [in all cities]"],
         "policies": [
             {
                 "name": "Republic",
