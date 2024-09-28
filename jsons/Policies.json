@@ -270,7 +270,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-20]%",
+                    "[Faith] cost of purchasing items in cities [-20]%","Free Social Policy",
                     "[+3 Gold, +3 Culture] from every [Holy site]"
                 ]
             }
@@ -473,7 +473,7 @@
             {
                 "name": "Rationalism Complete",
                 "uniques": [
-                    "[2] Free Technologies",
+                    "[1] Free Technologies",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
