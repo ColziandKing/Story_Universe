@@ -105,7 +105,7 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-                    "[+50]% Production when constructing [Scout] units [in capital]",
+                    "[+50]% Production when constructing [Worker] units [in capital]",
                     "Free [Scout] appears"
                 ],
                 "requires": ["Republic"],
@@ -494,7 +494,8 @@
             "Only available <before adopting [Tradition]>",
             "Only available <before adopting [Honor]>",
             "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Order]>"
+            "Only available <before adopting [Order]>",
+            "Only available <after adopting [Liberty]>"
         ],
         "policies": [
             {
@@ -559,7 +560,8 @@
             "Only available <before adopting [Liberty]>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
             "Only available <before adopting [Order]>",
-            "Only available <before adopting [Freedom]>"
+            "Only available <before adopting [Freedom]>",
+            "Only available <after adopting [Honor]>"
         ],
         "policies": [
             {
@@ -629,7 +631,8 @@
             "Only available <before adopting [Liberty]>",
             "Only available <before adopting [Honor]>",
             "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Freedom]>"
+            "Only available <before adopting [Freedom]>",
+            "Only available <after adopting [Tradition]>"
         ],
         "policies": [
             {
