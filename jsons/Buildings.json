@@ -39,46 +39,10 @@
 	{
 		"name": "Communia Polithea",
 		"culture": 1,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Free Social Policy","Destroyed when the city is captured"]
-	},
-	{
-		"name": "Barracks",
-		"hurryCostModifier": 25,
-		"maintenance": 1,
-		"uniques": ["New [Military] units start with [5] Experience [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Bronze Working"
-	},
-	{
-		"name": "Monument",
-		"culture": 2,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured","[1] free [Settler] units appear"]
-	},
-	{
-		"name": "Stele",
-        "replaces": "Monument",
-		"uniqueTo": "Ethiopia",
-		"culture": 2,
-		"faith": 2,
-		"cost": 40,
-		"hurryCostModifier": 40,
-		"maintenance": 1,
-		"uniques": ["Destroyed when the city is captured","[1] free [Settler] units appear"] //"Hidden when religion is disabled"
-	},
-	{
-		"name": "Granary",
 		"food": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]",
-			"[1] free [Settler] units appear"],
-		"requiredTech": "Pottery"
+		"uniques": ["Limited to [1] per Civilization","[1] free [Settler] units appear","Destroyed when the city is captured"]
 	}
 ]
