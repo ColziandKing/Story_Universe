@@ -1,3 +1,14 @@
+{
+                "name": "Collective Rule",
+                "uniques": [
+                    "[+50]% Production when constructing [Scout] units [in capital]",
+                    "Free [Settler] appears","Free [Scout] appears"
+                ],
+                "requires": ["Republic"],
+                "row": 2,
+                "column": 1
+            },
+
 [
     {
         "name": "Tradition",
