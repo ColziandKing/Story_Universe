@@ -10,8 +10,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[+3 Culture] [in capital]","Only available <before adopting [Liberty]>",
-            "Only available <before adopting [Honor]>",
+            "[+3 Culture] [in capital]",
             "[-25]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
@@ -80,8 +79,7 @@
             "Domination": 10,
             "Scientific": 10
         },
-        "uniques": ["Only available <before adopting [Tradition]>",
-            "Only available <before adopting [Honor]>","[+1 Culture] [in all cities]"],
+        "uniques": ["[+1 Culture] [in all cities]"],
         "policies": [
             {
                 "name": "Republic",
@@ -150,8 +148,8 @@
             "Scientific": 5
         },
         "uniques": [
-            "Only available <before adopting [Liberty]>","[+1 Gold] [in capital]","[+1 Production] from every [Barracks]",
-            "Only available <before adopting [Tradition]>","[+33]% Strength <vs [Barbarian] units>",
+            "[+1 Gold] [in capital]","[+1 Production] from every [Barracks]",
+            "[+33]% Strength <vs [Barbarian] units>",
             "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
             "Notified of new Barbarian encampments"
         ],
@@ -414,7 +412,7 @@
     },
     {
         "name": "Rationalism",
-        "era": "Classical era",
+        "era": "Renaissance era",
         "priorities": {
             "Neutral": 10,
             "Cultural": 10,
@@ -481,7 +479,7 @@
     },
     {
         "name": "Freedom",
-        "era": "Renaissance era",
+        "era": "Industrial era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 10,
@@ -491,8 +489,6 @@
         },
         "uniques": [
             "[+25]% Great Person generation [in all cities]",
-            "Only available <before adopting [Tradition]>",
-            "Only available <before adopting [Honor]>",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Order]>",
             "Only available <after adopting [Liberty]>"
@@ -556,8 +552,6 @@
         },
         "uniques": [
             "[-33]% maintenance costs <for [All] units>",
-            "Only available <before adopting [Tradition]>",
-            "Only available <before adopting [Liberty]>",
             "Upon capturing a city, receive [10] times its [Culture] production as [Culture] immediately",
             "Only available <before adopting [Order]>",
             "Only available <before adopting [Freedom]>",
@@ -628,8 +622,6 @@
         },
         "uniques": [
             "[+1 Happiness] [in all cities]",
-            "Only available <before adopting [Liberty]>",
-            "Only available <before adopting [Honor]>",
             "Only available <before adopting [Autocracy]>",
             "Only available <before adopting [Freedom]>",
             "Only available <after adopting [Tradition]>"
