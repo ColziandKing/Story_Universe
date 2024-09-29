@@ -10,7 +10,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[+3 Culture] [in capital]",
+            "[+3 Culture] [in capital]","Only available <before adopting [Liberty]>",
             "[-25]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
@@ -79,7 +79,8 @@
             "Domination": 10,
             "Scientific": 10
         },
-        "uniques": ["[+1 Culture] [in all cities]"],
+        "uniques": ["[+1 Culture] [in all cities]",
+                    "Only available <before adopting [Tradition]>"],
         "policies": [
             {
                 "name": "Republic",
