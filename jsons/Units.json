@@ -631,7 +631,6 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
-		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
 		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
