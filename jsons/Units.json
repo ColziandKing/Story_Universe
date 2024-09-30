@@ -602,7 +602,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques": ["Founds a new city <on foreign continents>","Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
@@ -618,7 +618,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Founds a new city <on foreign continents>","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
 	},
@@ -631,7 +631,7 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <by consuming this unit>", "[+2] Sight"],
 		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
 		//Conquistador should have no penalty attacking cities
@@ -646,7 +646,7 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Founds a new city <on foreign continents>","Can move after attacking","No defensive terrain bonus","[+50]% Strength <vs [Mounted] units>","[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "elephant"
 	},
 	{
@@ -661,7 +661,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Founds a new city <on foreign continents>","Can move after attacking","No defensive terrain bonus"],
 		"attackSound": "horse"
 	},
 	{
@@ -678,7 +678,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Founds a new city <on foreign continents>","Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Great Generals I", "Quick Study"],
 		"attackSound": "arrow"
 		// Keshik should have no penalty attacking cities
