@@ -244,7 +244,7 @@
             },
             {
                 "name": "Theocracy",
-                "uniques": ["[+10]% [Gold] from every [Temple]","Gain a free [Follower] belief"],
+                "uniques": ["[+10]% [Gold] from every [Temple]","Gain a free [Pantheon] belief"],
                 "requires": ["Organized Religion"],
                 "row": 2,
                 "column": 1
