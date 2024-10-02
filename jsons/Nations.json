@@ -700,7 +700,7 @@
         "outerColor": [139,32,23],
         "innerColor": [134,238,214],
 
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Sikhism",
 		"uniqueName": "Sacrificial Captives",
 		"uniques": ["Cannot build [Settler] units","Earn [100]% of killed [Military] unit's [Strength] as [Culture]","Gain a free [Shrine] [in all cities]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
