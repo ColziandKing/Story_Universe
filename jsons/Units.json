@@ -402,7 +402,7 @@
 		"name": "Companion Cavalry",
 		"unitType": "Mounted",
 		"uniqueTo": "Greece",
-		"replaces": "Horseman",
+		"replaces": "Cataphract",
 		"movement": 5,
 		"strength": 14,
 		"cost": 75,
