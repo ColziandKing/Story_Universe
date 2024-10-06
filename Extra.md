@@ -1,5 +1,1 @@
-{
-		"name": "Altitude Training",
-		"uniques": ["Double movement in [Hill]","[+10]% Strength <when fighting in [Hill] tiles>"]
-	},
- 
+
