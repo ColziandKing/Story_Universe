@@ -1,19 +1,4 @@
 [
-//ss
-	{
-		"name": "Nucleus Missile",
-		"unitType": "Missile",
-		"movement": 1,
-		"strength": 300,
-		"rangedStrength": 300,
-		"range": 12,
-		"cost": 10,
-		"uniqueTo": "Grand Philippines",
-		"requiredTech": "Archery",
-		"uniques": ["Nuclear weapon of Strength [5]", 
-			"Blast radius [5]"],
-		"attackSound": "nuke"
-	},
 	{
 		"name": "Angel",
 		"unitType": "Gunpowder",
@@ -135,6 +120,8 @@
 	{
 		"name": "Slinger",
 		"unitType": "Archery",
+		"replaces": "Bowman",
+		"uniqueTo": "Inca",
 		"movement": 2,
 		"strength": 4,
 		"rangedStrength": 7,
@@ -608,7 +595,7 @@
 	{
 		"name": "Camel Archer",
 		"unitType": "Archery",
-		"replaces": "Knight",
+		"replaces": "Conquistador",
 		"uniqueTo": "Arabia",
 		"movement": 4,
 		"strength": 17,
@@ -632,7 +619,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <by consuming this unit>", "[+2] Sight"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Founds a new city <on foreign continents>", "[+2] Sight"],
 		"promotions": ["[Conquistador] ability"],
 		"attackSound": "horse"
 		//Conquistador should have no penalty attacking cities
@@ -641,6 +628,8 @@
 	{
 		"name": "Naresuan's Elephant",
 		"unitType": "Mounted",
+		"replaces": "Conquistador",
+		"uniqueTo": "Siam",
 		"movement": 3,
 		"strength": 25,
 		"cost": 120,
@@ -653,7 +642,7 @@
 	{
 		"name": "Mandekalu Cavalry",
 		"unitType": "Mounted",
-		"replaces": "Knight",
+		"replaces": "Conquistador",
 		"uniqueTo": "Songhai",
 		"movement": 4,
 		"strength": 20,
@@ -668,7 +657,7 @@
 	{
 		"name": "Keshik",
 		"unitType": "Archery",
-		"replaces": "Knight",
+		"replaces": "Conquistador",
 		"uniqueTo": "Mongolia",
 		"range": 2,
 		"movement": 5,
