@@ -52,3 +52,45 @@ ImprovementIcons/Sacred altar
   offset: 0, 0
   index: -1
 
+{
+		"name": "Seaside Stall",
+		"food": 1,
+		"gold": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 8,
+		"techRequired": "Currency",
+		"uniques": ["Can be built outside your borders","Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
+	},
+		{
+		"name": "Colossal Head",
+		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
+		"faith": 2,
+		"science": 2,
+		"turnsToBuild": 6,
+		"techRequired": "Calendar",
+		"uniques": ["Can be built outside your borders","Cannot be built on [Land] tiles <with [1] to [4] neighboring [Colossal Head] tiles>","[+1 Culture] <after discovering [Archaeology]>","[+1 Science] for each adjacent [Great Improvement]","[+1 Science] for each adjacent [Great Improvement] <after discovering [Astronomy]>"]
+	},
+			{
+		"name": "Kurgan",
+		"terrainsCanBeBuiltOn": ["Plains"],
+		"culture": 2,
+		"faith": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Masonry",
+		"uniques": ["Can be built outside your borders","[+1 Culture] <after discovering [Archaeology]>","Cannot be built on [Land] tiles <with [1] to [4] neighboring [Kurgan] tiles>","Pillaging this improvement yields approximately [+50 Gold]"]
+	},
+	{
+		"name": "Holy Place",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 8,
+		"happiness": 2,
+		"faith": 1,
+		"techRequired": "Pottery",
+		"uniques": ["Can be built outside your borders","Cannot be built on [Land] tiles <with [1] to [4] neighboring [Holy Place] tiles>","Gives a defensive bonus of [50]%"]
+	},
+	{
+		"name": "Sacred altar",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 2,
+		"uniques": ["Can be built outside your borders","Cannot be built on [Land] tiles <with [1] to [4] neighboring [Sacred altar] tiles>","Tile provides yield without assigned population"]
+	},
