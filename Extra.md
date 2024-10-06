@@ -94,3 +94,45 @@ ImprovementIcons/Sacred altar
 		"faith": 2,
 		"uniques": ["Can be built outside your borders","Cannot be built on [Land] tiles <with [1] to [4] neighboring [Sacred altar] tiles>","Tile provides yield without assigned population"]
 	},
+ //Special
+	
+	{
+		"name": "Chateau",
+		"uniqueTo": "France",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 1,
+		"culture": 2,
+		"turnsToBuild":7,
+		"techRequired": "Chivalry",
+		"uniques": ["Can be built outside your borders","Can only be built on [Land] tiles <with [1] to [6] neighboring [Luxury resource] tiles>","Cannot be built on [Land] tiles <with [1] to [4] neighboring [Chateau] tiles>","Gives a defensive bonus of [50]%","[+2 Gold, +1 Culture] <after discovering [Flight]>"]
+	},
+	{
+		"name": "Brazilwood Camp",
+		"uniqueTo": "Brazil",
+		"terrainsCanBeBuiltOn": ["Jungle"],
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Machinery",
+		"uniques": ["Can be built outside your borders","[+2 Culture] <after discovering [Acoustics]>"]
+	},
+		{
+		"name": "Feitoria",
+		"uniqueTo": "Portugal",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 7,
+		"gold": 1,
+		"happiness": 1,
+		"techRequired": "Navigation",
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%","Can only be built on [Coastal] tiles"]
+	},
+	{
+		"name": "Kasbah",
+		"uniqueTo": "Morocco",
+		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
+		"food": 1,
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Chivalry",
+		"uniques": ["Can be built outside your borders","Gives a defensive bonus of [50]%"]
+	},
