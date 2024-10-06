@@ -113,12 +113,6 @@
                     "[+1 Food, +1 Science, +1 Culture] [in this city]"]
     },
 	{
-        "name": "Autocephalous Communion",
-        "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+20]",
-                    "[+1 Happiness, +1 Culture] from every [Shrine] <in cities where this religion has at least [3] followers>"]
-    },
-	{
         "name": "Apostolic Succession",
         "type": "Founder",
         "uniques": ["[+1 Faith, +1 Gold] from all [Culture] buildings <in cities with at least [7] [Followers of this Religion]>"]
