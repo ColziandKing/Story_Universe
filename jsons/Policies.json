@@ -10,7 +10,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[+3 Culture] [in capital]","Only available <before adopting [Liberty]>",
+            "[+3 Culture] [in capital]",
             "[-25]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
