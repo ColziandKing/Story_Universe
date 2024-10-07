@@ -104,7 +104,7 @@
             {
                 "name": "Collective Rule",
                 "uniques": [
-                    "[+50]% Production when constructing [Civilian] units [in capital]",
+                    "[+50]% Production when constructing [Worker] units [in capital]",
                     "Free [Conquistador] appears"
                 ],
                 "requires": ["Republic"],
