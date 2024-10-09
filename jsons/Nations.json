@@ -948,7 +948,7 @@
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["Cannot build [Settler] units","May choose [2] additional belief(s) of any type when [founding] a religion","Gain a free [Wall] [in all cities]"],
+		"uniques": ["Cannot build [Settler] units","May choose [2] additional belief(s) of any type when [founding] a religion","Gain a free [Walls] [in all cities]"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
