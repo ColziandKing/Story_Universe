@@ -105,7 +105,7 @@
                 "name": "Collective Rule",
                 "uniques": [
                     "[+50]% Production when constructing [Worker] units [in capital]",
-                    "Free [Conquistador] appears"
+                    "Free [Settler] appears"
                 ],
                 "requires": ["Republic"],
                 "row": 2,
