@@ -59,7 +59,7 @@
 		"innerColor": [65, 141, 254],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Hellenic League",
-		"uniques": ["Cannot build [Settler] units","[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory","Gain a free [Communia Polithea] [in all cities]"],
+		"uniques": ["Cannot build [Settler] units","[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory","Gain a free [Shrine] [in all cities]"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
 			"Paros","Elis","Syracuse","Herakleia","Gortyn","Chalkis","Pylos","Pella","Naxos",
@@ -702,7 +702,7 @@
 
 		"favoredReligion": "Sikhism",
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["Cannot build [Settler] units","Earn [100]% of killed [Military] unit's [Strength] as [Culture]","Gain a free [Shrine] [in all cities]"],
+		"uniques": ["Cannot build [Settler] units","Earn [100]% of killed [Military] unit's [Strength] as [Culture]","Gain a free [Floating Gardens] [in all cities]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
@@ -948,7 +948,7 @@
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Patriarchate of Constantinople",
-		"uniques": ["Cannot build [Settler] units","May choose [2] additional belief(s) of any type when [founding] a religion"],
+		"uniques": ["Cannot build [Settler] units","May choose [2] additional belief(s) of any type when [founding] a religion","Gain a free [Wall] [in all cities]"],
 
 		"cities": ["Constantinople", "Adrianople", "Nicaea", "Antioch", "Varna", "Ohrid", "Nicomedia", "Trebizond", "Cherson", "Sardica",
 			"Ani", "Dyrrachium", "Edessa", "Chalcedon", "Naissus", "Bari", "Iconium", "Prilep", "Samosata", "Kars", "Nicopolis", "Theodosiopolis",
