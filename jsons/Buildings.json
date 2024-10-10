@@ -45,6 +45,39 @@
 		"maintenance": 1,
 		"uniques": ["Limited to [1] per Civilization","[1] free [Settler] units appear","Destroyed when the city is captured"]
 	},
+	{ 
+		"name": "Palengke (PA)",
+		"replaces": "Market",
+		"uniqueTo": "Philipinas",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 23,
+		"percentStatBonus": {"gold": 30},
+		"uniques": [
+			"Comment [[+1 Food, +1 Gold, +1 Production] from each Trade Route (doubled from the [Industrial era] onwards)]",
+			"Comment [[+1 Gold, +1 Production] from [Stone] tiles; and [+1 Gold, +1 Food] from other [Bonus resource] tiles [in this city]]",
+			"Comment [[+1 Production, +1 Food] from [Horses] tiles; and [+1 Production, +1 Gold] from other [Strategic resource] tiles [in this city]]",
+			"[+1 Gold, +1 Production, +1 Happiness] from [Luxury resource] tiles [in this city]",
+			"[+1 Food, +1 Gold, +1 Production] from each Trade Route <before the [Industrial era]> <hidden from users>",
+			"[+2 Food, +2 Gold, +2 Production] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+			"[+1 Food, +1 Gold] from [Bonus resource] tiles [in this city] <in tiles without [Stone]> <hidden from users>",
+			"[+1 Production, +1 Gold] from [Stone] tiles [in this city] <hidden from users>",
+			"[+1 Production, +1 Gold] from [Strategic resource] tiles [in this city] <in tiles without [Horses]> <hidden from users>",
+			"[+1 Production, +1 Food] from [Horses] tiles [in this city] <hidden from users>"
+		],
+		"requiredTech": "Currency"
+	},
+	{
+	    "name": "Coral Church",
+	    "uniqueTo": "Philipinas",
+		"replaces": "Harbor",
+		"cost": 120,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]","[+2 Faith] from [Water resource] tiles [in this city]","[+5]% growth [in this city]",
+			"Connects trade routes over water","Must be next to [Coast]"],
+		"requiredTech": "Compass"
+	},
 	{
 		"name": "Hagia Sophia",
 		"faith": 3,
