@@ -38,7 +38,7 @@
 	},
 	{
 		"name": "Communia Polithea",
-		"culture": 100,
+		"culture": 225,
 		"food": 2,
 		"cost": 140,
 		"hurryCostModifier": 40,
