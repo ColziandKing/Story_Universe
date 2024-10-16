@@ -1,5 +1,41 @@
 [
 	{
+		"columnNumber": 5,
+		"era": "Medieval era",
+		"techCost": 275,
+		"buildingCost": 120,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Theology",
+				"row": 2,
+				"prerequisites": ["Philosophy", "Drama and Poetry"],
+				"quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
+			},
+			{
+				"name": "Civil Service",
+				"row": 5,
+				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
+				"uniques": ["Enables Open Borders agreements","[+100]% weight to this choice for AI decisions"],
+				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
+			},
+			{
+				"name": "Guilds",
+				"row": 7,
+				"prerequisites": ["Currency"],
+				"uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'The merchants and the traders have come; their profits are pre-ordained...' - Sri Guru Granth Sahib"
+			},
+			{
+				"name": "Metal Casting",
+				"row": 9,
+				"prerequisites": ["Engineering","Iron Working"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
+			}
+		]
+	},
+	{
 		"columnNumber": 7,
 		"era": "Renaissance era",
 		"techCost": 780,
