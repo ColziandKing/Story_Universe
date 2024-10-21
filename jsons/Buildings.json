@@ -35,15 +35,33 @@
 		"specialistSlots": {"Artist": 1},
 		"uniques": ["Provides [1] [Jewelry]","Unsellable",
 				"Unbuildable","Hidden when religion is disabled"]
+	},{
+		"name": "Monument",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Free Social Policy","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Stele",
+        "replaces": "Monument",
+		"uniqueTo": "Ethiopia",
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Free Social Policy","Destroyed when the city is captured"] //"Only available <when religion is enabled>"
 	},
 	{
 		"name": "Communia Polithea",
-		"culture": 125,
+		"culture": 2,
 		"food": 2,
 		"cost": 140,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"uniques": ["Limited to [1] per Civilization","[1] free [Settler] units appear","Destroyed when the city is captured"]
+		"uniques": ["Limited to [1] per Civilization","Free Social Policy","[1] free [Settler] units appear","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Hagia Sophia",
