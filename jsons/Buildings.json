@@ -35,7 +35,8 @@
 		"specialistSlots": {"Artist": 1},
 		"uniques": ["Provides [1] [Jewelry]","Unsellable",
 				"Unbuildable","Hidden when religion is disabled"]
-	},{
+	},
+	{
 		"name": "Monument",
 		"culture": 2,
 		"cost": 40,
